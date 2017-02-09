@@ -8,7 +8,7 @@ void setup() {
 
 void draw() {
   // Flip LED
-  isLed = !isLed;  
+  isLed = !isLed;
 
   if (isLed) {
     // Turn on LED
@@ -16,7 +16,7 @@ void draw() {
   } else {
     // Turn off LED
     finch.setLED(0, 0, 0);
-  }  
+  }
 
   // Wait 1 second
   delay(1000);
