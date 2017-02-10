@@ -4,11 +4,9 @@ Created by InnovEd® Copyright © 2017.
 
 Disclaimer: InnovEd® is not affiliated with BirdBrain Technologies.
 
-## How to Download
+## Download
 
-1. Visit the innovEdInc/finch-robot repository at GitHub
-2. Click the green `Clone or download` button below the top-right corner
-3. Click `Download ZIP`
+[finch-robot-release20160210.zip](https://github.com/innovEdInc/finch-robot/raw/master/release/finch-robot-release20160210.zip)
 
 ## Resources
 
